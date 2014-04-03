@@ -1,0 +1,136 @@
+html>body{
+	background: #444;
+}
+#gb#gb a.gb_e, #gb#gb div>a.gb_f {
+color: #eee !important;
+}
+.gb_Hb .gb_fa, .gb_4b .gb_na {
+background: #383838 !important;
+}
+a:link, .w, #prs a:visited, #prs a:active, .q:active, .q:visited, .kl:active, .tbotu {
+color: #5e8fde !important;
+}
+.a, cite, cite a:link, cite a:visited, .cite, .cite:link, #ans>i, .bc a:link {
+color: #008641 !important;
+font-style: normal;
+}
+.s {
+color: #99a !important;
+}
+a.fl:link, .fl a, .flt, a.flt, .gl a:link, a.mblink, .mblink b {
+color: #5e8fde !important;
+}
+#hdtbSum {
+background: #383838 !important;
+border-bottom: 1px solid #383838 !important;
+}
+#appbar {
+background: #393939 !important;
+}
+#hdtbMenus {
+background: #393939 !important;
+}
+.mblink:visited, a:visited {
+color: #98d !important;
+}
+
+.fbar {
+background: #383838 !important;
+border-top: #444 !important;
+}
+#cnt {
+background: #444 !important;
+}
+
+body {
+	color: #ddd ! important;
+}
+
+.st {
+	color: #ddd !important;
+}
+div#resultStats {
+	color: #aaa !important;
+}
+.f{
+color: #bbb !important;
+}
+
+/* translate */
+#gt-text-c{
+	background: #444 !important;
+}
+
+#gt-src-wrap {
+background: #fff !important;
+}
+#gt-appbar , #gt-apb-main {
+	background: #383838 !important;
+	border-bottom: none !important;
+}
+
+/* youtube */
+
+body.site-center-aligned {
+background: #383838 !important;
+}
+
+.branded-page-v2-body {
+background: #252525 !important;
+color: #ddd !important;
+}
+
+.yt-lockup .yt-lockup-content {
+color: #ccc !important;
+}
+
+.site-center-aligned .yt-card {
+	background: #1a1a1a !important;
+}
+
+.epic-nav-item-heading {
+color: #ddd !important;
+}
+.feed-header {
+	border: none !important;
+}
+
+.site-center-aligned #footer-container {
+background-color: #222 !important;
+border: none !important;
+}
+
+.guide-pinned .guide-pinning-enabled #appbar-guide-menu {
+background: #222 !important;
+border: #000 !important;
+}
+
+#masthead-appbar {
+background-color: #111 !important;
+border: #000 !important;
+}
+
+.site-center-aligned #yt-masthead-container {
+background: #0a0a0a !important;
+border: #000 !important;
+}
+#watch7-sidebar-discussion{
+background: #1a1a1a !important;
+color: #ddd !important;
+}
+
+#watch7-sidebar{
+	background: #1a1a1a !important;
+}
+div.yJa {
+background: #1a1a1a !important;
+border: none !important;
+}
+#watch-discussion {
+background: #fff !important;
+}
+
+#tads a, #tadsb a, #res a, #rhs a, #taw a {
+text-decoration: none;
+background: #444;
+}
